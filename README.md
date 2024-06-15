@@ -1,0 +1,5 @@
+Pip install request 
+
+
+
+THIS IS JUST A SIMPLE IPTRACER IT USES AN API CREDITS TO : DEKU 
